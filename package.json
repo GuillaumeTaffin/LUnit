@@ -1,0 +1,16 @@
+{
+  "name": "l-unit",
+  "version": "0.1.0",
+  "description": "XUnit testing framework adapted to the LIGO language",
+  "main": "src/lib/core.jsligo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeTaffin/LUnit.git"
+  },
+  "author": "Guillaume Taffin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuillaumeTaffin/LUnit/issues"
+  },
+  "dependencies": {}
+}
